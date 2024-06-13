@@ -1,4 +1,4 @@
-# Net Ninja Pro The Book (Bootstrap Project)
+# Net Ninja Pro The Book (Bootstrap Practice Project)
 
 
 
