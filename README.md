@@ -3,7 +3,7 @@
 
 
 
-## How to use this project -
+## How to use this -
 
 Clone the repository to your local machine 
 
